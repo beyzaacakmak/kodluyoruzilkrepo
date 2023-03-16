@@ -12,5 +12,6 @@ git clone https://github.com/beyzaacakmak/kodluyoruzilkrepo.git
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Hesaplarım 
-[PatikaDev](https://app.patika.dev/beyzacakmak)
-[Linkedin](https://www.linkedin.com/in/beyzaa-cakmak)
+-[PatikaDev](https://app.patika.dev/beyzacakmak)
+
+-[Linkedin](https://www.linkedin.com/in/beyzaa-cakmak)
