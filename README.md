@@ -1,4 +1,4 @@
-# kodluyoruz ilk repo
+# Kodluyoruz Ilk Repo
 
 - Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
@@ -11,3 +11,6 @@ git clone https://github.com/beyzaacakmak/kodluyoruzilkrepo.git
 
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Hesaplarım 
+[PatikaDev] (https://app.patika.dev/beyzacakmak)
+[Linkedin] (https://www.linkedin.com/in/beyzaa-cakmak)
