@@ -6,7 +6,5 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Installation
-'''github
-git clone https://github.com/beyzaacakmak/kodluyoruzilkrepo.git
-'''
+https://github.com/beyzaacakmak/kodluyoruzilkrepo.git
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
